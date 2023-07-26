@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando: HTML, CSS, JAVA, C++, pentest
+- 🌱 Estudando: HTML, CSS, JAVA, C++, RUBY
 
 
 
