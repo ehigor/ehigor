@@ -3,6 +3,8 @@
 
 
 - 🌱 Estudando: HTML, CSS, JAVA, C++, RUBY
+- Animador 2D / 3D
+- AE / Blender / Krita
 
 
 
